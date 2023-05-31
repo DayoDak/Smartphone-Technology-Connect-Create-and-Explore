@@ -17,10 +17,17 @@ The latest trends in smartphone brands reflect the evolving demands and aspirati
 
 - Privacy and Security: With increasing concerns about data privacy, smartphone brands are prioritizing security features. Advanced facial recognition, fingerprint sensors, and encrypted storage ensure that users' personal information remains safe and protected.
 
-Whether you're a social media enthusiast, a photography aficionado, or a gaming fanatic, the world of smartphones has a device tailored to your needs. Stay connected, unleash your creativity, and explore endless possibilities with the power of smartphones and the latest trends shaping the industry.
-
 ##  Objective of the Study
-The general objective of this project is to make decision making for all smartphones enthusiast easier by providing them the all needed infromation in one click.
+The primary goal of this project is to streamline the decision-making process for smartphone enthusiasts by conveniently offering all the necessary information in a single click.
 
 ##  Analysis
-This p
+In this study, a dataset consisting of 241 rows and 8 columns obtained from Kaggle was analyzed. The dataset was cleaned and formatted using Excel, and insights derived from the dataset were visualized using Tableau.
+
+##  Visualization
+A dynamic dashboard was developed to assist smartphone enthusiasts in making informed decisions. Below ⬇️, you can find a glimpse of the valuable insights extracted from the analyzed dataset.
+![](Dashboard.png)
+
+You can interact with the dashboard [here](https://public.tableau.com/views/Mobiles_16852921818410/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+# Conclusion
+Whether you're a social media enthusiast, a photography aficionado, or a gaming fanatic, the world of smartphones has a device tailored to your needs. Stay connected, unleash your creativity, and explore endless possibilities with the power of smartphones and the latest trends shaping the industry.
