@@ -30,4 +30,4 @@ A dynamic dashboard was developed to assist smartphone enthusiasts in making inf
 You can interact with the dashboard [here](https://public.tableau.com/views/Mobiles_16852921818410/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 # Conclusion
-Whether you're a social media enthusiast, a photography aficionado, or a gaming fanatic, the world of smartphones has a device tailored to your needs. Stay connected, unleash your creativity, and explore endless possibilities with the power of smartphones and the latest trends shaping the industry.
+**Whether you're a social media enthusiast, a photography aficionado, or a gaming fanatic, the world of smartphones has a device tailored to your needs. Stay connected, unleash your creativity, and explore endless possibilities with the power of smartphones and the latest trends shaping the industry.**
