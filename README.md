@@ -25,7 +25,7 @@ In this study, a dataset consisting of 241 rows and 8 columns obtained from Kagg
 
 ##  Visualization
 A dynamic dashboard was developed to assist smartphone enthusiasts in making informed decisions. Below ⬇️, you can find a glimpse of the valuable insights extracted from the analyzed dataset.
-![](Dash.png)
+![](Dashboard.png)
 
 You can interact with the dashboard [here](https://public.tableau.com/views/Mobiles_16852921818410/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
